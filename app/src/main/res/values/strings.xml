@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Deviation Report</string>
+    <string name="btnSaveLabel">Save</string>
+    <string name="imgFlashSwitchDescription">Switch flash</string>
+    <string name="btnNewTruckLabel">new truck</string>
+    <string name="dialogNewTruckLabel">Enter new truck number:</string>
+    <string name="btnDialogNewTruckSave">Save</string>
+    <string name="btnDialogNewTruckCancel">Cancel</string>
+    <string name="lblTruckInfo">"Truck "</string>
+    <string name="imgTorchDescription">Switch torch</string>
+    <string name="hintTorchNotAvailable">Torch not available :-(</string>
+    <string name="hintPhotoSaved">Photo saved.</string>
+    <string name="hintPhotoNotSaved">Error saving photo :-(</string>
+    <string name="btnDocumentsLabel">Doc.</string>
+    <string name="btnDeleteLastPicture">delete picture</string>
+    <string name="btnDeleteLastPictureCancel">Cancel</string>
+    <string name="BtnLastPicture">last picture</string>
+    <string name="BtnSaveDoc">save (don\'t count)</string>
+</resources>

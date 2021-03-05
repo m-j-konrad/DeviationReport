@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Deviation Report</string>
+    <string name="btnSaveLabel">Speichern</string>
+    <string name="imgFlashSwitchDescription">Blitz an/aus</string>
+    <string name="btnNewTruckLabel">Neuer LKW</string>
+    <string name="dialogNewTruckLabel">Truck-Nr. eingeben:</string>
+    <string name="btnDialogNewTruckSave">Speichern</string>
+    <string name="btnDialogNewTruckCancel">Abbrechen</string>
+    <string name="lblTruckInfo">"LWK "</string>
+    <string name="imgTorchDescription">Taschenlampe an/aus</string>
+    <string name="hintTorchNotAvailable">Taschenlampe nicht vorhanden :-(</string>
+    <string name="hintPhotoSaved">Foto gespeichert.</string>
+    <string name="hintPhotoNotSaved">Fehler beim Speichern :-(</string>
+    <string name="btnDocumentsLabel">Dok.</string>
+    <string name="btnDeleteLastPicture">Bild löschen</string>
+    <string name="btnDeleteLastPictureCancel">abbrechen</string>
+    <string name="BtnLastPicture">letztes Bild</string>
+    <string name="BtnSaveDoc">speichern (nicht zählen)</string>
+</resources>
